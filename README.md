@@ -17,9 +17,9 @@ https://pd.zwc365.com/ 或 https://pd.zwc365.com/cfworker/
 
 内
 
-ql repo https://github.com/CHENGTIMSUN/ICEJB.git "jd_|jx_|jdCookie" "activity|backUp" "^jd[^_]|USER|utils|function|sign|sendNotify|ql|JDJR"
+ql repo https://github.com/Ice-Whisky/ICEJB.git "jd_|jx_|jdCookie" "activity|backUp" "^jd[^_]|USER|utils|function|sign|sendNotify|ql|JDJR"
 
 外
 
-ql repo https://github.com/CHENGTIMSUN/ICEJB.git "jd_|jx_|jdCookie" "activity|backUp" "^jd[^_]|USER|utils|function|sign|sendNotify|ql|JDJR"
+ql repo https://github.com/Ice-Whisky/ICEJB.git "jd_|jx_|jdCookie" "activity|backUp" "^jd[^_]|USER|utils|function|sign|sendNotify|ql|JDJR"
 
